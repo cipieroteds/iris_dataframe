@@ -36,6 +36,6 @@ Run the Python script in your preferred environment (Jupyter Notebook, VS Code, 
 
 The final output of the DataFrame will look something like this: 
 
-![image1](files/image.jpg)
+![image1](https://github.com/cipieroteds/iris_dataframe/blob/main/image.JPG)
 
 
